@@ -1,0 +1,10 @@
+E:\TA ALIF>py parallel.py
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\User\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\User\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+EVALUASI
+100%|████████████████████████████████████████████████████████████████████████████| 9577/9577 [4:24:09<00:00,  1.65s/it]
+Avg Precision: 0.0008014659955760397, Avg Recall: 0.005529520983278163, Avg F1 Score: 0.001306006374140982

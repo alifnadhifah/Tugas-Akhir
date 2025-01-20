@@ -1,0 +1,27 @@
+E:\TA ALIF>py parallel3.py
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\User\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\User\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Tentology 17387
+     User_Id  Anime_Id  ...                                        Anime_Title                                   Anime_Genre
+0  Tentology     30407  ...               Ryoku Tama Shinshi: 10 Short Stories                                Comedy, Demons
+1  Tentology     29629  ...                                Short Peace Opening                 Fantasy, Sci-Fi, Supernatural
+2  Tentology     19573  ...                                       Hyakka Zukan                                        Comedy
+3  Tentology      7244  ...                              Yoshichirou no Keirei                           Historical, Samurai
+4  Tentology     36401  ...  Youkai Watch Movie 6: Youkai Gakuen Y - Neko w...    Comedy, Demons, Kids, Supernatural, School
+5  Tentology     34954  ...                   Kitsutsuki: The Ten Hole Stories                                      Dementia
+6  Tentology     39529  ...                                   Kozou no Koushin                                   Music, Kids
+7  Tentology     33520  ...                               Toilet no Hanako-san                                        Horror
+8  Tentology      8539  ...                                       Coffee Break                                      Dementia
+9  Tentology     40365  ...      Koutetsujou no Kabaneri Movie 2: Moeru Inochi  Action, Horror, Supernatural, Drama, Fantasy
+
+[10 rows x 7 columns]
+Total Process: 1
+Process ke : 0
+100%|████████████████████████████████████████████████████████████████████████████████████| 8/8 [02:11<00:00, 16.48s/it]
+EVALUASI
+100%|████████████████████████████████████████████████████████████████████████████| 9577/9577 [4:27:13<00:00,  1.67s/it]
+Avg Precision: 0.0007939442380167766, Avg Recall: 0.005438075305821149, Avg F1 Score: 0.0012931689829559251

@@ -1,0 +1,24 @@
+py parallel2.py
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\User\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\User\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+WeebFan 21729
+   User_Id  Anime_Id  ...                                   Anime_Title                                        Anime_Genre
+0  WeebFan     28755  ...                               Ashita no Joe 2      Action, Drama, Shounen, Slice of Life, Sports
+1  WeebFan        15  ...                             Hayate no Gotoku!    Action, Harem, Comedy, Parody, Romance, Shounen
+2  WeebFan      2921  ...                                  Eyeshield 21                    Action, Sports, Comedy, Shounen
+3  WeebFan     31964  ...                     Phi Brain: Kami no Puzzle                     Action, Game, Mystery, Shounen
+4  WeebFan      1470  ...                      Boruto: Naruto the Movie  Action, Comedy, Martial Arts, Shounen, Super P...
+5  WeebFan      2026  ...  Boku no Hero Academia: Sukue! Kyuujo Kunren!       Action, Comedy, School, Shounen, Super Power
+6  WeebFan     31378  ...                         Boku no Hero Academia       Action, Comedy, School, Shounen, Super Power
+7  WeebFan     35459  ...           Owari no Seraph: Kyuuketsuki Shahar  Action, Military, Supernatural, Drama, Vampire...
+8  WeebFan      9981  ...   Boku no Hero Academia: Training of the Dead       Action, Comedy, Super Power, School, Shounen
+9  WeebFan     33929  ...                                   City Hunter                   Action, Comedy, Mystery, Shounen
+
+[10 rows x 7 columns]
+EVALUASI
+100%|████████████████████████████████████████████████████████████████████████████| 9577/9577 [4:27:15<00:00,  1.67s/it]
+Avg Precision: 0.0012152760505023965, Avg Recall: 0.008376113399344614, Avg F1 Score: 0.001981069506771669
